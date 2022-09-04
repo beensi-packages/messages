@@ -6,8 +6,8 @@ setup(
     license='BEENSI',
     author='beensi.com dev group',
     # author_email='email@example.com',
-    # packages=find_packages(''),
-    # package_dir={'': 'src'},
+    packages=find_packages('messages'),
+    package_dir={'': 'messages'},
     url='https://github.com/beensi-packages/messages.git',
     # keywords='',
     install_requires=[
