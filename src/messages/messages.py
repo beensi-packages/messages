@@ -1,4 +1,4 @@
-from .__message__ import _success, _warning, _error
+from .message import _success, _warning, _error
 
 YOUR_REGISTRATION_WAS_SUCCESSFUL = _success('Your registration was successful.')
 PLEASE_TRY_WITH_ANOTHER_USERNAME_OR_EMAIL = _warning('Please try with another username or email.')
