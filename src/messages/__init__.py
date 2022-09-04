@@ -1,4 +1,4 @@
-from .__messages import (
+from .__messages__ import (
     YOUR_REGISTRATION_WAS_SUCCESSFUL,
     PLEASE_TRY_WITH_ANOTHER_USERNAME_OR_EMAIL,
     PASSWORD_PATTERN,
@@ -12,4 +12,4 @@ from .__messages import (
     PLEASE_DO_NOT_TRY_AGAIN,
     THERE_IS_NO_DATA_WITH_THIS_ID,
 )
-from .__messages import MESSAGES_DICTIONARY
+from .__messages__ import MESSAGES_DICTIONARY
