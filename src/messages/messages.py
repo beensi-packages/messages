@@ -1,4 +1,4 @@
-from .message import _success, _warning, _error
+from .message import _success, _warning, _error, _msg
 
 YOUR_REGISTRATION_WAS_SUCCESSFUL = _success('Your registration was successful.')
 PLEASE_TRY_WITH_ANOTHER_USERNAME_OR_EMAIL = _warning('Please try with another username or email.')
@@ -22,4 +22,4 @@ PLEASE_DO_NOT_TRY_AGAIN = _warning('Please do not try again.')
 THERE_IS_NO_DATA_WITH_THIS_ID = _error('There is no data with this ID.')
 
 # messages dictionary
-MESSAGES_DICTIONARY = msg.MESSAGES_DICTIONARY
+MESSAGES_DICTIONARY = _msg.MESSAGES_DICTIONARY
