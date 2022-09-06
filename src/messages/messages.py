@@ -22,6 +22,8 @@ PLEASE_DO_NOT_TRY_AGAIN = _warning('Please do not try again.')
 THERE_IS_NO_DATA_WITH_THIS_ID = _error('There is no data with this ID.')
 THIS_TOKEN_HAS_ALREADY_BEEN_REGISTERED = _error('This token has already been registered.')
 PLEASE_TRY_AGAIN = _warning('Please try again.')
+AN_UNKNOWN_PROBLEM_HAS_OCCURRED = _error('An unknown problem has occurred.')
+PLEASE_TRY_WITH_ANOTHER_TOKEN = _warning('Please try with another token.')
 
 # messages dictionary
 MESSAGES_DICTIONARY = _msg.MESSAGES_DICTIONARY
