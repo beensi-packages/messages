@@ -20,6 +20,8 @@ PLEASE_CONTACT_SUPPORT = _warning('Please contact support.')
 ACCESS_TO_THIS_AREA_IS_PROHIBITED = _error('Access to this area is prohibited.')
 PLEASE_DO_NOT_TRY_AGAIN = _warning('Please do not try again.')
 THERE_IS_NO_DATA_WITH_THIS_ID = _error('There is no data with this ID.')
+THIS_TOKEN_HAS_ALREADY_BEEN_REGISTERED = _error('This token has already been registered.')
+PLEASE_TRY_AGAIN = _warning('Please try again.')
 
 # messages dictionary
 MESSAGES_DICTIONARY = _msg.MESSAGES_DICTIONARY
