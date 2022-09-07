@@ -24,6 +24,7 @@ THIS_TOKEN_HAS_ALREADY_BEEN_REGISTERED = _error('This token has already been reg
 PLEASE_TRY_AGAIN = _warning('Please try again.')
 AN_UNKNOWN_PROBLEM_HAS_OCCURRED = _error('An unknown problem has occurred.')
 PLEASE_TRY_WITH_ANOTHER_TOKEN = _warning('Please try with another token.')
+PLEASE_TRY_WITH_ANOTHER_EMAIL_ADDRESS = _warning('Please try with another email address.')
 
 # messages dictionary
 MESSAGES_DICTIONARY = _msg.MESSAGES_DICTIONARY
